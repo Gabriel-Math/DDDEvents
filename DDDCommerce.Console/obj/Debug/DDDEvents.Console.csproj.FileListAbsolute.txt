@@ -1,0 +1,8 @@
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Console\obj\Debug\DDDEvents.Console.csprojAssemblyReference.cache
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Console\obj\Debug\DDDEvents.Console.csproj.CoreCompileInputs.cache
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.exe
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.pdb
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Console\obj\Debug\DDDEvents.Console.csprojAssemblyReference.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Console\obj\Debug\DDDEvents.Console.csproj.CoreCompileInputs.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.exe
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Console\obj\Debug\DDDCommerce.Console.pdb

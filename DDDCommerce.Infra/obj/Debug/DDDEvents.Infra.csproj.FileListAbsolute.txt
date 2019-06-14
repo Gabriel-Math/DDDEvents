@@ -1,0 +1,12 @@
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.Migrations.v1.resources
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csproj.GenerateResource.cache
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.dll
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.pdb
+C:\Users\Gwiis\Desktop\DDD\DDDParte3\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csprojAssemblyReference.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csprojAssemblyReference.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.Migrations.v1.resources
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csproj.GenerateResource.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDEvents.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.dll
+C:\Users\Gwiis\Desktop\DDD\DDD\DDDCommerce.Infra\obj\Debug\DDDCommerce.Infra.pdb

@@ -14,11 +14,9 @@ namespace DDDEvents.Infra.Mappings
         {
             ToTable("Budget");
             HasKey(x => x.Id);
-            Property(x => x.Description).IsRequired().HasMaxLength(180);
-            Property(x => x.Image);
-            Property(x => x.Price).HasColumnType("money");
-            Property(x => x.QuantityOnHand);
-            Property(x => x.Title).IsRequired().HasMaxLength(80);
+            Property(x => x.InitialBudget);
+            Property(x => x.AdultsAmount).IsRequired();
+            Property(x => x.ChildrenAmount).IsRequired();
             
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDComm.Api\\DDDEvents.Api.csproj": {}
+    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDComm.Api\\DDDEvents.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDComm.Api\\DDDEvents.Api.csproj": {
+    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDComm.Api\\DDDEvents.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDComm.Api\\DDDEvents.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDComm.Api\\DDDEvents.Api.csproj",
         "projectName": "DDDEvents.Api",
-        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDComm.Api\\DDDEvents.Api.csproj",
+        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDComm.Api\\DDDEvents.Api.csproj",
         "packagesPath": "C:\\Users\\Gwiis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDComm.Api\\obj\\",
+        "outputPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDComm.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "net462": {
             "projectReferences": {
-              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj"
+              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj"
               },
-              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Infra\\DDDEvents.Infra.csproj": {
-                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Infra\\DDDEvents.Infra.csproj"
+              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Infra\\DDDEvents.Infra.csproj": {
+                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Infra\\DDDEvents.Infra.csproj"
               }
             }
           }
@@ -69,17 +69,17 @@
         }
       }
     },
-    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
+    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj",
         "projectName": "DDDEvents.Domain",
-        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj",
+        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
-                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
+              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
               }
             }
           }
@@ -89,20 +89,20 @@
         "net461": {}
       }
     },
-    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Infra\\DDDEvents.Infra.csproj": {
+    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Infra\\DDDEvents.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Infra\\DDDEvents.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Infra\\DDDEvents.Infra.csproj",
         "projectName": "DDDEvents.Infra",
-        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Infra\\DDDEvents.Infra.csproj",
+        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Infra\\DDDEvents.Infra.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Domain\\DDDEvents.Domain.csproj"
+              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Domain\\DDDEvents.Domain.csproj"
               },
-              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
-                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
+              "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
+                "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
               }
             }
           }
@@ -112,12 +112,12 @@
         "net461": {}
       }
     },
-    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
+    "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj",
         "projectName": "DDDEvents.Shared",
-        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDD\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
+        "projectPath": "C:\\Users\\Gwiis\\Desktop\\DDD\\DDDEvents\\DDDCommerce.Shared\\DDDEvents.Shared.csproj"
       },
       "frameworks": {
         "net461": {}
